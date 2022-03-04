@@ -19,7 +19,7 @@ public class Atividade2 {
 				
 				if (A != B && A != C && B != C ) {
 					if (A >= B && A >= C) {
-						if (B >= C) 	{
+						if (B >= C) {
 							System.out.println("A Ordem é " + C +
 									" - "+ B +" - " + A + ".");
 						} else {
